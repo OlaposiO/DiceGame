@@ -1,0 +1,14 @@
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\bin\Debug\net6.0\DiceApplicationGame.exe
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\bin\Debug\net6.0\DiceApplicationGame.deps.json
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\bin\Debug\net6.0\DiceApplicationGame.runtimeconfig.json
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\bin\Debug\net6.0\DiceApplicationGame.dll
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\bin\Debug\net6.0\DiceApplicationGame.pdb
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.AssemblyInfoInputs.cache
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.AssemblyInfo.cs
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.csproj.CoreCompileInputs.cache
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.dll
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\refint\DiceApplicationGame.dll
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.pdb
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\DiceApplicationGame.genruntimeconfig.cache
+C:\Users\Lyrical Hero\source\repos\DiceApplication\DiceApplicationGame\DiceApplicationGame\obj\Debug\net6.0\ref\DiceApplicationGame.dll
